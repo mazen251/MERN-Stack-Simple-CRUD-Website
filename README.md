@@ -1,4 +1,4 @@
-﻿# Calorie Tracker
+﻿# Simple Crud Website 
 ## Installation
 ```sh
 # Clone the repo
